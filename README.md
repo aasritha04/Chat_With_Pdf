@@ -42,8 +42,6 @@ pip install -r requirements.txt
 
    - Ensure you have an Anthropic API key and set it in your environment variables as `ANTHROPIC_API_KEY`.
    
-   - Make sure to have a `.env` file containing your environment variables, including the Anthropic API key.
-
 4. Run the Streamlit app:
 
 ```bash
@@ -55,11 +53,6 @@ streamlit run multipdfragapp.py
 1. Upload PDF files containing the information you want to inquire about.
 2. Click on "Submit & Process" to process the uploaded PDF files.
 3. Ask a question related to the content of the uploaded PDF files in the text input field and receive a response to your question.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
