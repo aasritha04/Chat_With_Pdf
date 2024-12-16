@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-
+https://github.com/aasritha04/Chat_With_Pdf.git
 ```
 
 2. Install the required dependencies:
