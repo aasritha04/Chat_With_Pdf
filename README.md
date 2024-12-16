@@ -2,6 +2,10 @@
 
 This project enables conversational interaction with PDF documents using the Retrieval-Augmented Generation (RAG) model. Users can ask questions related to the content of uploaded PDF files, and the system will provide detailed responses using RAG-based conversation generation techniques.
 
+## Preview
+![image](https://github.com/user-attachments/assets/96d4518e-e5a2-49fc-aa90-ef769ad17466)
+
+
 ## Features
 
 - **PDF Upload**: Users can upload one or multiple PDF files containing the information they want to inquire about.
